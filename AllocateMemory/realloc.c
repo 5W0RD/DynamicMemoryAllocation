@@ -5,7 +5,7 @@
 int main() {
     int n, i;
     int *ptr;
-    int choice;
+    char choice;
 
     printf("Enter Elements : ");
     scanf("%d", &n);
